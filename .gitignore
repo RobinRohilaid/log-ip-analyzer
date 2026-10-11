@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+!examples/auth.log
+threat_report.json
